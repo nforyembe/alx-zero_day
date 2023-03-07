@@ -1,0 +1,5 @@
+git fetch origin
+git merge origin/master
+
+I used the above as an alternative to 
+git pull origin/master
